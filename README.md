@@ -62,6 +62,7 @@
 
 
 ## Testnets
+- [Fractal](https://fractalbitcoin.io/): OP_CAT enabled on testnet, mainnet support when launch in Sept 2024
 - [Signet](https://en.bitcoin.it/wiki/Signet): OP_CAT enabled
 - [CatNet](https://github.com/Bitcoin-Wildlife-Sanctuary/catnet): a custom Bitcoin signet with OP_CAT enabled
 
