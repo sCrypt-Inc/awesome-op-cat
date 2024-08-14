@@ -42,6 +42,7 @@
 - [Cat is out of the bag?](https://youtu.be/4hfQYas5j8c?si=JTfkQM5rAWyiGTVC)
 - [OP_CAT & Bitcoin Ossification With Blockstream’s Andrew Poelstra](https://youtu.be/FRbpzj5OxOw?si=zLr2bIeyV9pz2bqY)
 - [Andrew Poelstra on Covenants (OP_CAT vs OP_CTV)](https://www.youtube.com/live/w-JRpBPDnDU?si=Z33SLbKLApo2YQI2)
+- [MEV & OP_CAT Panel](https://youtu.be/HRGx_Y0fLWE?si=eAVkvcP1JzWLmIEo)
 
 
 ## Applications
