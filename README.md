@@ -60,7 +60,7 @@
 
 
 ## Communities
-- [OP_CAT builders](https://t.me/opcatbtc)
+- [OP_CAT builders](https://t.me/opcatbtc): Telegram group for technical discussions
 
 
 ## Testnets
