@@ -33,6 +33,7 @@
 - [Scaling Bitcoin for mass use: A realistic vision by StarkWare](https://starkware.co/blog/scaling-bitcoin-for-mass-use/): $1 million fund to support new research of OP_CAT on Bitcoin
 - [Balrogs and OP_CATs: The Bridge to Khaza-doom?](https://ercwl.medium.com/balrogs-and-op-cats-the-bridge-to-khaza-doom-b4e4eabd29f6)
 - [TO MEME, OR NOT TO MEME: THE CAT](https://bitcoinmagazine.com/technical/to-meme-or-not-to-meme-the-cat)
+- [LITTLE OL’ OP_CAT](https://blog.yonson.dev/log/2024-02-vol3/)
 
 
 ## Videos and Podcasts
