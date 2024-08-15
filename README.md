@@ -63,6 +63,7 @@
 
 ## Communities
 - [OP_CAT builders](https://t.me/opcatbtc): Telegram group for technical discussions
+- [Stackoverflow](https://bitcoin.stackexchange.com/questions/tagged/bip347-op-cat)
 
 
 ## Testnets
