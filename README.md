@@ -56,6 +56,7 @@
 - [CatVM](https://catvm.org): Universal fine-state machine through OP_CAT
 - [What the heck is CatVM? - Bitcoin Magazine](https://bitcoinmagazine.com/technical/what-the-heck-is-catvm)
 - [OP_CAT: A Big Step towards Bitcoin Contracts, From Vault to General Computing | Bitlayer](https://blog.bitlayer.org/opcat_a_big_step_towards_Bitcoin_contracts)
+- [Lamport signatures](https://delvingbitcoin.org/t/lamport-signatures-and-other-cat-tricks/236)
 - [CATful contract collection](https://github.com/sCrypt-Inc/cat-contracts): a collection of CATful Bitcoin smart contracts written in sCrypt
 
 
