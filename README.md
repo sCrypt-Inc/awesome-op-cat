@@ -25,6 +25,7 @@
 - [What is OP_CAT?](https://hashrateindex.com/blog/a-guide-to-op_cat/)
 - [OP_CAT: The Missing Piece for BTC L2s?](https://www.bankless.com/what-is-op_cat-toward-bitcoin-l2s-with-covenants)
 - [What is OP_CAT](https://opcat.wtf)
+- [Return of the CAT](https://newsletter.blockspace.media/p/bitcoin-opcat-june-2024)
 ### Technical
 - [CAT and Schnorr Tricks I](https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html)
 - [OP_CAT: The Purr-fect Solution for Covenants?](https://bitcoinmagazine.com/technical/op-cat-the-purr-fect-solution-for-covenants-)
