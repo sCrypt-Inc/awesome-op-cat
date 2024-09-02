@@ -48,6 +48,7 @@
 - [MEV & OP_CAT Panel](https://youtu.be/HRGx_Y0fLWE?si=eAVkvcP1JzWLmIEo)
 - [Is OP_CAT Bullish or Bearish for Bitcoin? | sCrypt interviewed by Francis Dhun](https://www.youtube.com/live/6_mvI2iJP8o?si=cUbHpAkpO5UNKou1)
 - [Unlocking Expressivity With OP CAT](https://youtu.be/mztdh1J6Lpc?si=n8_8wpHDYrbqwUwH)
+- [sCrypt Unveils OP_CAT Potential in Silicon Valley Seminar](https://www.youtube.com/watch?v=3Rr16uye_tE)
 
 
 ## Applications
