@@ -35,6 +35,7 @@
 - [Balrogs and OP_CATs: The Bridge to Khaza-doom?](https://ercwl.medium.com/balrogs-and-op-cats-the-bridge-to-khaza-doom-b4e4eabd29f6)
 - [TO MEME, OR NOT TO MEME: THE CAT](https://bitcoinmagazine.com/technical/to-meme-or-not-to-meme-the-cat)
 - [LITTLE OL’ OP_CAT](https://blog.yonson.dev/log/2024-02-vol3/)
+- [On Script Upgrades & OP_CAT](https://www.bedlamresear.ch/posts/script/)
 
 
 ## Videos and Podcasts
