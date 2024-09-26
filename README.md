@@ -42,6 +42,7 @@
 - [OP_CAT | The Ordinal Show](https://x.com/i/spaces/1OyKAWWkeMzJb)
 - [OP_CAT with sCrypt | The Ordinal Show](https://x.com/i/spaces/1lDxLlbrVoZxm)
 - [OP_CAT with sCrypt | Emblem Vault](https://x.com/i/spaces/1LyxBglqbBOKN)
+- [OP_CAT and Its Use Cases by sCrypt at BitLayers](https://youtu.be/fpTgQe4J9qI)
 - [Bitcoin's Smart Contract Revolution: OP_CAT Explained by sCrypt](https://youtu.be/UXz2Xubgr0g?si=orCGcLzZ8jy4V7ie): part 1
 - [OP_CAT Unleashed: Revolutionizing Bitcoin with Smart Contracts and DApps - sCrypt](https://youtu.be/co_vu6mULdY?si=RzJ1S3dId6og5ojn): part 2
 - [Cat is out of the bag?](https://youtu.be/4hfQYas5j8c?si=JTfkQM5rAWyiGTVC)
