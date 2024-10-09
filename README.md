@@ -56,6 +56,7 @@
 
 
 ## Applications
+- [CAT Protocol](https://catprotocol.org/): miner validated tokens
 - [covenants](https://medium.com/@scryptplatform/trustless-ordinal-sales-using-op-cat-enabled-covenants-on-bitcoin-0318052f02b2)
 - [Merkle trees](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-2-merkle-trees-8e7c3f7afe8d)
 - [purrfect_vault by taproot-wizards](https://github.com/taproot-wizards/purrfect_vault)
