@@ -37,6 +37,7 @@
 - [TO MEME, OR NOT TO MEME: THE CAT](https://bitcoinmagazine.com/technical/to-meme-or-not-to-meme-the-cat)
 - [LITTLE OL’ OP_CAT](https://blog.yonson.dev/log/2024-02-vol3/)
 - [On Script Upgrades & OP_CAT](https://www.bedlamresear.ch/posts/script/)
+- [Is OP_CAT Too Powerful?](https://petertodd.org/2024/covenant-dependent-layer-2-review#is-op_cat-too-powerful)
 
 
 ## Videos and Podcasts
