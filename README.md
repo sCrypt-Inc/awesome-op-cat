@@ -45,7 +45,7 @@
  - [Series #2 (Merkle Trees)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-2-merkle-trees-8e7c3f7afe8d)
  - [Series #3 (Vaults)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-3-vaults-f107513c261b)
  - [Series #4 (Recursive Covenants)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-4-recursive-covenants-6a3127a24af4)
- - [Series #5 (Derivechain)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-5-drivechain-e962ee227da5)
+ - [Series #5 (Drivechain)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-5-drivechain-e962ee227da5)
 
 
 ## Videos and Podcasts
