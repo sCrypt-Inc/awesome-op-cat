@@ -8,6 +8,7 @@
   - [Articles](#articles)
     - [Introductions](#introductions)
     - [Technical](#technical)
+    - [OP_CAT Use Cases](#op_cat-use-cases)
   - [Videos and Podcasts](#videos-and-podcasts)
   - [Applications](#applications)
   - [Communities](#communities)
@@ -38,6 +39,13 @@
 - [LITTLE OL’ OP_CAT](https://blog.yonson.dev/log/2024-02-vol3/)
 - [On Script Upgrades & OP_CAT](https://www.bedlamresear.ch/posts/script/)
 - [Is OP_CAT Too Powerful?](https://petertodd.org/2024/covenant-dependent-layer-2-review#is-op_cat-too-powerful)
+
+### OP_CAT Use Cases
+ - [Series #1 (Covenants)](https://medium.com/@scryptplatform/trustless-ordinal-sales-using-op-cat-enabled-covenants-on-bitcoin-0318052f02b2)
+ - [Series #2 (Merkle Trees)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-2-merkle-trees-8e7c3f7afe8d)
+ - [Series #3 (Vaults)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-3-vaults-f107513c261b)
+ - [Series #4 (Recursive Covenants)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-4-recursive-covenants-6a3127a24af4)
+ - [Series #5 (Derivechain)](https://medium.com/@scryptplatform/bitcoin-op-cat-use-cases-series-5-drivechain-e962ee227da5)
 
 
 ## Videos and Podcasts
