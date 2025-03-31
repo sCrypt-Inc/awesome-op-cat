@@ -28,6 +28,8 @@
 - [What is OP_CAT](https://opcat.wtf)
 - [Return of the CAT](https://newsletter.blockspace.media/p/bitcoin-opcat-june-2024)
 - [Understanding the OP_CAT soft fork](https://www.theblockbeats.info/en/news/50187):  by BlockBeats [CN version](https://www.theblockbeats.info/news/50187)
+- [OP_CAT: The Opcode That Could Make Bitcoin Purr](https://www.blog.bitfinity.network/op_cat-the-opcode-that-could-make-bitcoin-purr/): by bitfinity
+- [Bitcoin’s Next Major Upgrade? An Assessment of OP_CAT & OP_CTV](https://www.galaxy.com/insights/research/bitcoins-next-major-upgrade-op-cat-and-op-ctv/): by Galaxy Research
 ### Technical
 - [CAT and Schnorr Tricks I](https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html)
 - [OP_CAT: The Purr-fect Solution for Covenants?](https://bitcoinmagazine.com/technical/op-cat-the-purr-fect-solution-for-covenants-)
