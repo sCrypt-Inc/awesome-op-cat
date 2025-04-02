@@ -86,6 +86,8 @@
 - [OP_CAT builders](https://t.me/opcatbtc): Telegram group for technical discussions
 - [Stackoverflow](https://bitcoin.stackexchange.com/questions/tagged/bip347-op-cat)
 - [DelvingBitcoin](https://delvingbitcoin.org/search?q=op_cat)
+- [Developer survey on OP_CAT and other covenant proposals](https://en.bitcoin.it/wiki/Covenants_support)
+
 
 
 ## Testnets
