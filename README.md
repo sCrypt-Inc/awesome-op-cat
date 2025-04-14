@@ -52,6 +52,7 @@
 
 ## Videos and Podcasts
 - [OP_CAT | The Ordinal Show](https://x.com/i/spaces/1OyKAWWkeMzJb)
+- [Bitcoin's Next Upgrade? The Power of OP_CAT](https://www.youtube.com/watch?v=fEzV1nNxIM8): April 2025 in Hong Kong
 - [OP_CAT with sCrypt | The Ordinal Show](https://x.com/i/spaces/1lDxLlbrVoZxm)
 - [OP_CAT with sCrypt | Emblem Vault](https://x.com/i/spaces/1LyxBglqbBOKN)
 - [OP_CAT and Its Use Cases by sCrypt at BitLayers](https://youtu.be/fpTgQe4J9qI)
