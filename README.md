@@ -28,6 +28,7 @@
 - [What is OP_CAT](https://opcat.wtf)
 - [Return of the CAT](https://newsletter.blockspace.media/p/bitcoin-opcat-june-2024)
 - [Understanding the OP_CAT soft fork](https://www.theblockbeats.info/en/news/50187):  by BlockBeats [CN version](https://www.theblockbeats.info/news/50187)
+- [Why Should You Care About Bitcoin’s OP_CAT? The Biggest Narrative After Lightning Network](https://www.theblockbeats.info/en/news/55109):  by BlockBeats [CN version](https://www.theblockbeats.info/news/55109)
 - [OP_CAT: The Opcode That Could Make Bitcoin Purr](https://www.blog.bitfinity.network/op_cat-the-opcode-that-could-make-bitcoin-purr/): by bitfinity
 - [Bitcoin’s Next Major Upgrade? An Assessment of OP_CAT & OP_CTV](https://www.galaxy.com/insights/research/bitcoins-next-major-upgrade-op-cat-and-op-ctv/): by Galaxy Research
 ### Technical
