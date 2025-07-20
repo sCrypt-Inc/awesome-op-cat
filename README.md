@@ -69,6 +69,7 @@
 - [sCrypt Unveils OP_CAT Potential in Silicon Valley Seminar](https://www.youtube.com/watch?v=3Rr16uye_tE)
 - [Is OP_CAT Bringing MEV to Bitcoin? at Bitcoin Vegas 2025](https://youtu.be/OxNvwBwZEs0?si=UqJ389_U_eaV_-JP)
 - [Orange Pilling Crypto With Cats and Wizards | With Udi Wertheimer](https://www.youtube.com/watch?v=VvlmaRbc3zI)
+- [OP_Cat, Bitcoin MEV, and Scaling Bitcoin With Post Capone on GWART POD](https://x.com/blockspacepod/status/1934246264209555566)
 
 
 ## Applications
