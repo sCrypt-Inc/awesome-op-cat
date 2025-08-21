@@ -43,6 +43,7 @@
 - [On Script Upgrades & OP_CAT](https://www.bedlamresear.ch/posts/script/)
 - [Is OP_CAT Too Powerful?](https://petertodd.org/2024/covenant-dependent-layer-2-review#is-op_cat-too-powerful)
 - [The path to general computation on Bitcoin (with OP_CAT)](https://starkware.co/blog/general-computation-on-bitcoin/): by StarkWare
+- [WTF is OP_CAT](https://opcat.wtf)
 
 ### OP_CAT Use Cases
  - [Series #1 (Covenants)](https://medium.com/@scryptplatform/trustless-ordinal-sales-using-op-cat-enabled-covenants-on-bitcoin-0318052f02b2)
