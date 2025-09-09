@@ -31,6 +31,7 @@
 - [Why Should You Care About Bitcoin’s OP_CAT? The Biggest Narrative After Lightning Network](https://www.theblockbeats.info/en/news/55109):  by BlockBeats [CN version](https://www.theblockbeats.info/news/55109)
 - [OP_CAT: The Opcode That Could Make Bitcoin Purr](https://www.blog.bitfinity.network/op_cat-the-opcode-that-could-make-bitcoin-purr/): by bitfinity
 - [Bitcoin’s Next Major Upgrade? An Assessment of OP_CAT & OP_CTV](https://www.galaxy.com/insights/research/bitcoins-next-major-upgrade-op-cat-and-op-ctv/): by Galaxy Research
+- [OP_CAT is Satoshi's invention](https://www.coindesk.com/tech/2025/09/02/op_cat-isn-t-my-invention-it-s-satoshi-s-brue-liu-s-opcat_labs-pushes-to-reboot-bitcoin-s-code): by CoinDesk
 ### Technical
 - [CAT and Schnorr Tricks I](https://www.wpsoftware.net/andrew/blog/cat-and-schnorr-tricks-i.html)
 - [OP_CAT: The Purr-fect Solution for Covenants?](https://bitcoinmagazine.com/technical/op-cat-the-purr-fect-solution-for-covenants-)
