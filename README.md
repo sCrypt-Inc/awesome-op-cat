@@ -56,6 +56,7 @@
 
 ## Videos and Podcasts
 - [Expanding Bitcoin's Utility with OP CAT](https://www.youtube.com/watch?v=4nVIibGDX74): Liu at Bitcoin Asia 2025
+- [The Developer Who Revived Bitcoin’s Lost Code: OP_CAT](https://www.youtube.com/watch?v=qbI7nVl7OMA): BITCOIN RAILS #36: The Birth Story of ‘OPCAT’ with proposal co-author Ethan Heilman
 - [OP_CAT | The Ordinal Show](https://x.com/i/spaces/1OyKAWWkeMzJb)
 - [Bitcoin's Next Upgrade? The Power of OP_CAT](https://www.youtube.com/watch?v=fEzV1nNxIM8): April 2025 in Hong Kong
 - [OP_CAT with sCrypt | The Ordinal Show](https://x.com/i/spaces/1lDxLlbrVoZxm)
