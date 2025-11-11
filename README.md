@@ -22,6 +22,7 @@
 
 ## Articles
 ### Introductions
+- [What Is OP_CAT: The One Opcode That Could Unlock Bitcoin’s Next Era](https://medium.com/@opcatlabs/what-is-op-cat-the-one-opcode-that-could-unlock-bitcoins-next-era-264f18702454)
 - [OP_CAT: The Key to Bitcoin’s Future Dominance?](https://bitpushnews.medium.com/op-cat-the-key-to-bitcoins-future-dominance-bca7b0607710)
 - [What is OP_CAT?](https://hashrateindex.com/blog/a-guide-to-op_cat/)
 - [OP_CAT: The Missing Piece for BTC L2s?](https://www.bankless.com/what-is-op_cat-toward-bitcoin-l2s-with-covenants)
