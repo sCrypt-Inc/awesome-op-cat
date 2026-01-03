@@ -56,6 +56,7 @@
 
 
 ## Videos and Podcasts
+- [Schrödinger's OP CAT: The Case For Concatenation on Bitcoin](https://www.youtube.com/watch?v=1tecMdUQjG4): Bitcoin MENA 2025
 - [Expanding Bitcoin's Utility with OP CAT](https://www.youtube.com/watch?v=4nVIibGDX74): Liu at Bitcoin Asia 2025
 - [The Developer Who Revived Bitcoin’s Lost Code: OP_CAT](https://www.youtube.com/watch?v=qbI7nVl7OMA): BITCOIN RAILS #36: The Birth Story of ‘OPCAT’ with proposal co-author Ethan Heilman
 - [OP_CAT | The Ordinal Show](https://x.com/i/spaces/1OyKAWWkeMzJb)
