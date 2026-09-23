@@ -28,6 +28,7 @@
 - [What is OP_CAT?](https://hashrateindex.com/blog/a-guide-to-op_cat/)
 - [OP_CAT: The Missing Piece for BTC L2s?](https://www.bankless.com/what-is-op_cat-toward-bitcoin-l2s-with-covenants)
 - [What is OP_CAT](https://opcat.wtf)
+- [Satsie's Pocket Guide to OP_CAT](https://satsie.dev/zines/opcat.html)
 - [Return of the CAT](https://newsletter.blockspace.media/p/bitcoin-opcat-june-2024)
 - [Understanding the OP_CAT soft fork](https://www.theblockbeats.info/en/news/50187):  by BlockBeats [CN version](https://www.theblockbeats.info/news/50187)
 - [Why Should You Care About Bitcoin’s OP_CAT? The Biggest Narrative After Lightning Network](https://www.theblockbeats.info/en/news/55109):  by BlockBeats [CN version](https://www.theblockbeats.info/news/55109)
